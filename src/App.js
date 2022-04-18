@@ -1,4 +1,6 @@
+/* eslint-disable no-unused-vars */
 import './App.css';
+
 
 import firebase from './FirebaseConfig';
 
